@@ -1,5 +1,4 @@
-
-.tabStyle{
+.tabStyle {
   text-align: center;
   border-radius: 20px;
   margin: 0 auto;
@@ -7,56 +6,67 @@
   border-collapse: collapse;
 }
 
-.tdAll{
+.tdAll {
   padding: 10px;
 }
 
-.fontGray{
+.fontGray {
   background-color: rgb(219, 219, 219);
 }
 
-.fontLightGray{
+.fontLightGray {
   background-color: rgb(231, 231, 231);
 }
 
-.theadStyle{
+.theadStyle {
   color: white;
   font-weight: bold;
 }
 
-.hd1{
+.divUp {
+  padding-bottom: 10%;
+}
+
+.divLow {
+  padding-top: 10%;
+}
+
+.fontlarger {
+  font-size: larger;
+}
+
+.hd1 {
   background-color: rgb(120, 135, 171);
 }
 
-.hd2{
+.hd2 {
   background-color: rgb(79, 98, 142);
 }
 
-.hd3{
+.hd3 {
   background-color: rgb(46, 65, 114);
 }
 
-.hd4{
+.hd4 {
   background-color: rgb(22, 41, 85);
 }
 
-.hd5{
+.hd5 {
   background-color: rgb(6, 21, 57);
+}
 
-} 
-
-.upLeft{
+.upLeft {
   border-radius: 20px 0 0 0;
 }
 
-.upRight{
+.upRight {
   border-radius: 0 20px 0 0;
 }
 
-.lowRight{
+.lowRight {
   border-radius: 0 0 20px 0;
 }
 
-.lowLeft{
+.lowLeft {
   border-radius: 0 0 0 20px;
 }
